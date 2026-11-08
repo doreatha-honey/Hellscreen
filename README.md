@@ -196,4 +196,4 @@ This repository serves as the official landing page for Hellscreen. The software
 **Get the most recent version of Hellscreen today!**
 
 ---
-**Last updated:** 2026-11-08 16:25:52 UTC
+**Last updated:** 2026-11-08 20:50:53 UTC
